@@ -16,10 +16,11 @@ body {
     text-shadow: 4px 4px 6px black;
 
 }
+
 .birth {
     text-align: center;
     font-size: 30px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
     color: black;
 }
 h1 {
@@ -30,4 +31,16 @@ h2 {
 }
 .interview {
     font-style: italic
+}
+.JohnAlone {
+    width: 350px;
+}
+.JohnGroup {
+    width: 500px;
+    align-content: center;
+}
+#copyright {
+    text-align: right;
+    color: gray;
+    font-size: 80%;
 }
