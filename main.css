@@ -25,22 +25,30 @@ body {
 }
 h1 {
     color: #155432;
+    font-size: 3em;
 }
 h2 {
     color: #2c965d;
+    font-size: 2em;
 }
 .interview {
     font-style: italic
+}
+.interview:hover {
+    color: #60f086;
 }
 .JohnAlone {
     width: 350px;
 }
 .JohnGroup {
     width: 500px;
-    align-content: center;
 }
 #copyright {
     text-align: right;
     color: gray;
     font-size: 80%;
+}
+p {
+    text-indent: 2em;
+    line-height: 1.8em;
 }
